@@ -35,7 +35,7 @@ To install CCOH, follow these steps:
     - Type `{your local IP address}:443`
     - Press Enter/Return
 
-Important note: The default password is `iamlosingpixels`. This can be manually changed by creating a new SHA-256 hash of a password and overwriting the contents of `hash.key` in the `Hash` folder. A feature to do this automatically may come in the future.
+Important note: The default password is `iamlosingpixels`. This can be manually changed by creating a new double SHA-256 hash of a password and overwriting the contents of `hash.key` in the `Hash` folder. A feature to do this automatically may come in the future.
 
 ## Security Considerations
 
