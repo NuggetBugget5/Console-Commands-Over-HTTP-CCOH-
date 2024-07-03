@@ -19,7 +19,7 @@ To install CCOH, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/NuggetBugget5/CCOH.git
+    git clone https://github.com/NuggetBugget5/Console-Commands-Over-HTTP-CCOH-.git
     ```
     
     ```cd CCOH
