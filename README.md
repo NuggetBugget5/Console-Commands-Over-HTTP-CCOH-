@@ -20,7 +20,9 @@ To install CCOH, follow these steps:
 
     ```bash
     git clone https://github.com/NuggetBugget5/CCOH.git
-    cd CCOH
+    ```
+    
+    ```cd CCOH
     ```
 
 2. **Start the Server**:
